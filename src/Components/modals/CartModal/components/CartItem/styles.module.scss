@@ -1,0 +1,33 @@
+.CartItem {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.CartItem__logo {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.CartItem__about {
+  margin-left: 20px;
+  flex-grow: 1;
+}
+
+.CartItem__characteristic {
+  margin-right: 5px;
+}
+
+.CartItem__quantity {
+  display: flex;
+  justify-content: space-between;
+}
+
+.CartItem__listPrice {
+  margin-right: 10px;
+}
+
+.CartItem__listPrice__changed {
+  text-decoration: line-through;
+}

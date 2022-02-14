@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Acer Aspire 5",
+    "price": 1000,
+    "listPrice": 650,
+    "image": "https://m.media-amazon.com/images/I/7189iXimfWL._AC_SL1500_.jpg",
+    "count": 5,
+    "characteristics": {
+      "weight": "4kg",
+      "size": "200cm",
+      "color": "black"
+    }
+  },
+  {
+    "id": 2,
+    "name": "CYBERPOWERPC Gamer Xtreme VR",
+    "weight": "4kg",
+    "size": "200cm",
+    "price": 3500,
+    "listPrice": 3500,
+    "image": "https://m.media-amazon.com/images/I/81AaNfH-llL._AC_SL1500_.jpg",
+    "count": 2,
+    "color": "blue"
+  }
+]
